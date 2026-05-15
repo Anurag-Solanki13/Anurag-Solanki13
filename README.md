@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there !
 
 <!--
 **Anurag-Solanki13/Anurag-Solanki13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
